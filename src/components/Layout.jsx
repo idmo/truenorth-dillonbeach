@@ -16,16 +16,16 @@ const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Checking In', href: '/docs/checking-in' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'House Rules',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Water Usage', href: '/docs/water-usage' },
       {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
+        title: 'Garbage and Recycling',
+        href: '/docs/garbage-and-recycling',
       },
       { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
       {
@@ -36,7 +36,7 @@ const navigation = [
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Local guides',
     links: [
       { title: 'Writing plugins', href: '/docs/writing-plugins' },
       { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
@@ -50,7 +50,7 @@ const navigation = [
     ],
   },
   {
-    title: 'API reference',
+    title: 'Contact Information',
     links: [
       { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
@@ -59,7 +59,7 @@ const navigation = [
     ],
   },
   {
-    title: 'Contributing',
+    title: 'Other',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
       { title: 'Architecture guide', href: '/docs/architecture-guide' },

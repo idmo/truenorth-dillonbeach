@@ -6,7 +6,7 @@ import Highlight, { defaultProps } from 'prism-react-renderer'
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
-import hero from '@/images/21northDillonBeachHero.jpg'
+import hero from '@/images/IMG_4631.jpg'
 import blurIndigoImage from '@/images/blur-indigo.png'
 
 const codeLanguage = 'javascript'
@@ -36,7 +36,7 @@ function TrafficLightsIcon(props) {
 export function Hero() {
   return (
     <div className="overflow-hidden bg-slate-900 dark:-mb-32 dark:mt-[-4.5rem] dark:pb-32 dark:pt-[4.5rem] dark:lg:mt-[-4.75rem] dark:lg:pt-[4.75rem]">
-      <Image src={hero} className="object-cover" />
+      <Image src={hero} className="h-[480px] object-cover" />
     </div>
   )
 }
