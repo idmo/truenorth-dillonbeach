@@ -23,6 +23,10 @@ const navigation = [
     title: 'House Rules',
     links: [
       {
+        title: 'General',
+        href: '/docs/general',
+      },
+      {
         title: 'Parking',
         href: '/docs/parking',
       },
@@ -35,6 +39,10 @@ const navigation = [
         title: 'Pets (Dog)',
         href: '/docs/pets',
       },
+      {
+        title: 'Furniture',
+        href: '/docs/furniture',
+      },
     ],
   },
   {
@@ -42,6 +50,13 @@ const navigation = [
     links: [
       { title: 'Emergency', href: '/docs/emergency' },
       { title: 'Non-emergency', href: '/docs/non-emergency' },
+    ],
+  },
+  {
+    title: 'Helpful Tips and Other Stuff',
+    links: [
+      { title: 'House Stuff', href: '/docs/house-stuff' },
+      { title: 'Beach Stuff', href: '/docs/beach-stuff' },
     ],
   },
 ]
@@ -97,7 +112,6 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex items-center flex-grow basis-0">
         <Link href="/" aria-label="Home page">
-          <Logomark className="h-9 w-9 lg:hidden" />
           <Logo className="hidden w-auto h-9 fill-slate-700 dark:fill-sky-100 lg:block" />
         </Link>
       </div>
