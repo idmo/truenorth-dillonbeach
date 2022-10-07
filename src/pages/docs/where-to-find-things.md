@@ -47,11 +47,29 @@ Under the kitchen sink
 
 ---
 
+## Bathroom
+
+### Hair dryer
+
+Inside the vanity, under the sink.
+
+### Shampoo, Body Wash, and Conditioner
+
+The dispenser in the shower should have enough for your visit. If you need to refill it, there bottles of each in the bathroom closet.
+
+## Toilet Paper
+
+There are several rolls of septic-safe toilet paper in the bathroom vanity. Only use that kind of toilet paper. [See Water Usage Rules](/docs/water-usage) for septic tank information. If you run out, they sell septic safe toilet paper at the general store at Dillon Beach Resort 2 blocks away.
+
 ## Other
 
 ### Beach Chairs & Table
 
 In the bedroom closet.
+
+### Flashlight
+
+There is a small LED flashlight in the top drawer on the left side of the kitchen sink.
 
 ### Latterns
 

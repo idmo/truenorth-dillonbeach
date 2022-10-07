@@ -27,6 +27,14 @@ The outdoor tables and chairs are to remain outside, and on the porch. Do not br
 
 We provide two lounge chairs in the bedroom closet. You can take these to the beach.
 
+## Television
+
+The house comes with a 55" Smart TV with most of the popular streaming services already installed such as Netflix, Hulu, PrimeVideo, and HBOMax. You can, and probably should, log in with your own accounts for these services so you can access your saved preferences.
+
+The television is in the bedroom on an easel stand which can be moved anywhere inside the house. Do not take the television outside. Please be careful when moving the television to not damage the screen.
+
+It is already configured to connect to the WiFi network in the house. If you need to reconnect for some reason, go to Settings / Network and connect to the WiFi network **21 North Dillon Beach** and use the password provided in the AirBnb app.
+
 ## Space Heater
 
 The space heater is to remain inside the house at all times. It can be moved to other spots within the house, but no where else. Please return it to its original spot in the living room before you leave.

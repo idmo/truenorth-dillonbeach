@@ -59,7 +59,7 @@ const navigation = [
     links: [
       { title: 'House Stuff', href: '/docs/house-stuff' },
       { title: 'Beach Stuff', href: '/docs/beach-stuff' },
-      { title: 'WiFi', href: '/docs/wifi' },
+      { title: 'WiFi and Cellular Coverage', href: '/docs/wifi' },
     ],
   },
 ]
