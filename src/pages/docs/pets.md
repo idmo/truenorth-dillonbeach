@@ -13,7 +13,7 @@ We love all animals, but have to limit pets to dogs only due to allergies. Becau
 
 ## Inside Dog Rules
 
-Do let dogs in the house when they are wet or sandy. We provide towels specifically for your dog (paw print pattern). Please use them to thoroughly dry off your pal before letting them in the house.
+Do not let dogs in the house when they are wet or sandy. We provide towels specifically for your dog (paw print pattern). Please use them to thoroughly dry off your pal before letting them in the house.
 
 ### Leaving Pets Alone in the House
 
