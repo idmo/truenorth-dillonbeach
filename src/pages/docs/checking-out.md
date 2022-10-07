@@ -34,3 +34,7 @@ Please make sure all faucets are off and the toilet isn't running. If the toilet
 ### Garbage and Recycling
 
 Please remove all garbage and recycling from the house and dispose of them in the outside receptacles. More on this at on the [Garbage and Recyling Page](/docs/garbage-and-recycling)
+
+### Dirty Dishes
+
+The house does not have a dishwasher. Please wash the dishes you use and dry them in the rack in the sink. It's okay to leave clean dishes in the rack when you leave.

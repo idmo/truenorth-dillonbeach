@@ -17,9 +17,13 @@ There is absolutely no smoking, no vaping, no candles allowed on the property wh
 
 ## No Grills or Firepits
 
-We do not proivde a grill or a firepit, nor do we allow guests to bring and use their own. Again, this is a preventive measure due to the extreme fire risk with old woodmen structures.
+We do not proivde a grill or a firepit, nor do we allow guests to bring and use their own. Again, this is a preventive measure due to the extreme fire risk with old wooden structures.
 
 There are free firepits available to use on the beach.
+
+## Visitors
+
+We are fine with guests having visitors during their stay. For example, 2-3 friends over for dinner is totally reasonable. Keep in mind, as the guest, you are responsible for your visitors. Any damage they do is your responsibility.
 
 ## Parties and Events and Other
 
@@ -35,10 +39,8 @@ We have a no events policy at the house. By event we mean, anything that involve
 
 > For example, you cannot book the house for 2 guests then later have 2 friends come and stay with you after you arrive.
 
-We are fine with guests having visitors during their stay. For example, if you want to have 2-3 friends over for dinner. Keep in mind, as the guest, **you are responsible for your visitor's behavior**. Any damage they do is your responsibility.
-
 The visitors of the guest are not allowed to spend the night. Guest's visitors who spend the night are considered additional guests and will be charged an additional guest fee.
 
 {% callout type="warning" title="Rule of Thumb" %}
-Use of the house for anything other than lodging by 2 people and requires excessive cleaning and potential damage is not allowed.
+Use of the house for anything other than lodging for 2 people and requiring excessive cleaning and potential damage is not allowed.
 {% /callout %}

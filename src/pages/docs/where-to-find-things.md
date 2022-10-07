@@ -46,3 +46,13 @@ In the right basket on top of the refrigerator
 Under the kitchen sink
 
 ---
+
+## Other
+
+### Beach Chairs & Table
+
+In the bedroom closet.
+
+### Latterns
+
+In case of power outages, there are 4 battery operated LED latterns in the kitchen pantry on the top shelf. They require AA batteries, which are sitting next to them. You may need to install batteries in them to use. We do not store them with batteries to avoid corrosion.
