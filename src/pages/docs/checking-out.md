@@ -23,27 +23,27 @@ Please remove the cushion from the bay window. Place it against the wall, under 
 
 ### Front Door
 
-Please lock the storm door and lactch the top half of the Dutch door to the bottom half and deadbolt it.
+Please lock the storm door and latch the top half of the Dutch door to the bottom half and deadbolt it.
 
 ### Bedding and Towels
 
 Please remove the sheets and pillow cases from the bed and put them on foot of the bed so the cleaning staff can launder them.
 
-Same thing for the bathroom towels, and washclothes. Just put them in a separate pile near the bedding.
+Leave the bathroom towels, and washclothes in the hamper next to the dresser.
 
-If you used the beach towels or pet sheets, please put them in a separate pile. Also, make sure to shake as much sand out of them outside before bringing them in the house.
+If you used the beach towels or pet sheets make sure to shake as much sand out of them outside before bringing them in the house. Place them in the hamper as well.
 
 ### Lights and Appliances
 
-Please makre sure light switches are turned to off. Make sure the stove and oven are off as well. For small appliances like the toaster, blender, and coffeemaker, feel free to unplug them just to be sure.
+Please makre sure light switches are turned to off. Make sure the stove and oven are off as well. Unplug the television, toaster, and coffeemaker.
 
 ### Water
 
-Please make sure all faucets are off and the toilet isn't running. If the toilet continues to fill after a long time, longer than three minutes, and jiggling the handle doesn't stop it, let our house manager know.
+Please make sure all faucets are off and the toilet isn't running.
 
 ### Garbage and Recycling
 
-Please remove all garbage and recycling from the house and dispose of them in the outside receptacles. More on this at on the [Garbage and Recyling Page](/docs/garbage-and-recycling)
+Please remove all garbage and recycling from the house and dispose of them in the outside receptacles. The receptacles are at 53 Ocean View Avenue. They're behind the fence next to the pink structure in the yard. We share the cans with that house.
 
 ### Dirty Dishes
 
