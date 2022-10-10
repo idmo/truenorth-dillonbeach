@@ -15,6 +15,16 @@ The smart lock code changes at 11am so, you will not be able to re-enter the hou
 
 ## Before you Leave
 
+### Windows and Shades
+
+Please close any open windows, and make sure all windows are locked. Close the curtains in the living room. The blinds in the bedroom, and the blinds in the kitchen.
+
+Please remove the cushion from the bay window. Place it against the wall, under the front windows. Leave the curtains open for the Bay Window.
+
+### Front Door
+
+Please lock the storm door and lactch the top half of the Dutch door to the bottom half and deadbolt it.
+
 ### Bedding and Towels
 
 Please remove the sheets and pillow cases from the bed and put them on foot of the bed so the cleaning staff can launder them.

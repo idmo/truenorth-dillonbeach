@@ -60,6 +60,8 @@ const navigation = [
       { title: 'House Stuff', href: '/docs/house-stuff' },
       { title: 'Beach Stuff', href: '/docs/beach-stuff' },
       { title: 'WiFi and Cellular Coverage', href: '/docs/wifi' },
+      { title: 'Places to Eat', href: '/docs/places-to-eat' },
+      { title: 'Places to Visit', href: '/docs/places-to-visit' },
     ],
   },
 ]

@@ -17,6 +17,10 @@ The cabinet above the refrigerator is locked from the inside. Please do not atte
 
 In the upper cupboard to the left of the sink.
 
+### Coffeemaker &amp; Filters
+
+The coffeemaker is on the counter. It has a reusable coffee filter. Please dispose of the grounds in the garbage can. **Do not put coffee grounds down the sink.**
+
 ### Silverware
 
 Spoons, forks, knives are in the drawer to the left of the sink.
@@ -66,6 +70,10 @@ There are several rolls of septic-safe toilet paper in the bathroom vanity. Only
 ### Beach Chairs & Table
 
 In the bedroom closet.
+
+### Beach Towels
+
+In the basket on the floor in the bedroom.
 
 ### Flashlight
 
